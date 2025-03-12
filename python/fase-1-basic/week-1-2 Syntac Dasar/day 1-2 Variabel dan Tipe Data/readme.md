@@ -1,7 +1,3 @@
-# **variabel dan tipe data**
-
----
-
 ## **📌 Hari 1-2: Variabel dan Tipe Data dalam Python**  
 
 ### **1. Apa itu Variabel?**  

@@ -1,7 +1,3 @@
-Mantap! Sekarang kita lanjut ke **Hari 7-8: Praktik dengan Program Sederhana & Mini Project Kalkulator**.  
-
----
-
 # **📌 Hari 7-8: Praktik Program Sederhana & Mini Project Kalkulator**  
 
 ## **1. Praktik Program Sederhana (3-4 per minggu)**  

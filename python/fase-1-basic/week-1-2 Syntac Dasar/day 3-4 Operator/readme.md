@@ -1,7 +1,3 @@
-# **operator dalam Python**   
-
----
-
 ## **📌 Hari 3-4: Operator dalam Python**  
 
 ### **1. Operator Aritmatika**  

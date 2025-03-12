@@ -1,7 +1,3 @@
-# **Hari 5-6: Input/Output & Manipulasi String** 
-
----
-
 ## **📌 Hari 5-6: Input, Output, dan Manipulasi String di Python**  
 
 ### **1. Input & Output di Python**  
