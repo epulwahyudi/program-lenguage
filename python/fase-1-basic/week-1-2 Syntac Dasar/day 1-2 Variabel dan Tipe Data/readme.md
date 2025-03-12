@@ -1,4 +1,4 @@
-Baik! Kita bahas **variabel dan tipe data** secara mendetail, beserta contoh penggunaannya.  
+# **variabel dan tipe data**
 
 ---
 
